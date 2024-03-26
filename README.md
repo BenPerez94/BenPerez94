@@ -4,7 +4,7 @@
 **BenPerez94/BenPerez94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-<br><br>
+<br>
 I'm Benjamin Perez, a full-stack developer with extensive experience in front-end development, particularly with React. I'm always eager to explore new technologies and take on new challenges. While I may not be an expert yet, I'm motivated to learn and expand my skills. Passionate about creating dynamic and user-friendly web interfaces, I'm constantly on the lookout for stimulating projects where I can apply my knowledge and contribute meaningfully.
 <br><br>
 
